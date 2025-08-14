@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/go-redis/redis/v8"
 	"log"
-	"viper/config"
+	"github.com/zhanghanchen1014/viper/config"
 )
 
 func RedisInit() {
