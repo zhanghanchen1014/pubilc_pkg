@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="AppConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Elasticsearch">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MongoDB">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Mysql">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RabbitMQ">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Redis">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755154980818" />
+              <option name="schema">
+                <list>
+                  <option value="AppConfig" />
+                  <option value="Mysql" />
+                  <option value="Redis" />
+                  <option value="Elasticsearch" />
+                  <option value="MongoDB" />
+                  <option value="RabbitMQ" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/config/global.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755155763894" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755155221312" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/es.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755155686640" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/init.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755155278363" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/mongodb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755155920427" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/mysql.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755155667613" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/inits/redis.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755155831955" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755153895589" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="app_config" value="AppConfig" />
+        <entry key="elasticsearch" value="Elasticsearch" />
+        <entry key="mongo_db" value="MongoDB" />
+        <entry key="mysql" value="Mysql" />
+        <entry key="rabbit_mq" value="RabbitMQ" />
+        <entry key="redis" value="Redis" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1755153855482" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+Mysql:
+ Host: "14.103.175.131"
+ Port: 3306
+ User: "root"
+ Password: "34862bca5fdc07f8d93ccb39994ad26d"
+ Database: "health_db"
+Redis:
+ Host: "14.103.175.131"
+ Port: 6379
+ Password: "34862bca5fdc07f8d93ccb39994ad26d"
+ Database: 0
+Elasticsearch:
+ Host: "14.103.175.131"
+ Port: 9200
+MongoDB:
+ Host: "14.103.175.131"
+ Port: 27017
+ User: "gaoshaopu"
+ Password: "gaoshaopu"
+ Database: "health_db"
+RabbitMQ:
+ Host: "156724.103.175.131"
+ Port: 5672
+ User: "2301a"
+ Database: "2301a"
