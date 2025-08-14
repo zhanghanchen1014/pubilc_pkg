@@ -3,7 +3,7 @@ package inits
 import (
 	"github.com/spf13/viper"
 	"log"
-	"viper/config"
+	"github.com/zhanghanchen1014/viper/config"
 )
 
 func ConfigInit() {
