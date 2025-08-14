@@ -6,7 +6,7 @@ import (
 	"gorm.io/gorm"
 	"log"
 	"time"
-	"viper/config"
+	"github.com/zhanghanchen1014/viper/config"
 )
 
 func MysqlInit() {
