@@ -7,7 +7,7 @@ import (
 )
 
 func ConfigInit() {
-	viper.SetConfigFile("../../dev")
+	viper.SetConfigFile("D:\\gowork\\src\\viper\\dev.yaml")
 	err := viper.ReadInConfig()
 	if err != nil {
 		panic(err)

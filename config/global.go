@@ -10,7 +10,7 @@ import (
 
 var (
 	AppConf AppConfig
-	Once    *sync.Once
+	Once    sync.Once
 	Ctx     = context.Background()
 	DB      *gorm.DB
 	Rdb     *redis.Client
