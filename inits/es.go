@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/elastic/go-elasticsearch/v7"
 	"log"
-	"viper/config"
+	"github.com/zhanghanchen1014/viper/config"
 )
 
 func EsInit() {
