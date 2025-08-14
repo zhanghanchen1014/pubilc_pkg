@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "viper/inits"
+	_ "github.com/zhanghanchen1014/viper/inits"
 )
 
 func main() {
