@@ -1,4 +1,4 @@
-module viper
+module github.com/zhanghanchen1014/viper
 
 go 1.23
 
