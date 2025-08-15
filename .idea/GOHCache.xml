@@ -59,6 +59,13 @@
             </set>
           </value>
         </entry>
+        <entry key="LoginReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/handler/request/user.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="MongoDB">
           <value>
             <set>
@@ -88,6 +95,20 @@
             </set>
           </value>
         </entry>
+        <entry key="RegisterReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/handler/request/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SendSmsReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/handler/request/user.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Server">
           <value>
             <set>
@@ -106,6 +127,76 @@
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/basic/cmd/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755261431075" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/basic/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755261431140" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/basic/init/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755261463926" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/basic/init/userGrpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755261895466" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/handler/api/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755262654767" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/handler/request/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755262311155" />
+              <option name="schema">
+                <list>
+                  <option value="SendSmsReq" />
+                  <option value="RegisterReq" />
+                  <option value="LoginReq" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/router/pex.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755261214129" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/router/router.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755261214176" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/api-gateway/router/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755262219108" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/basic/cmd/main.go">
           <value>
             <ScannedPath>
@@ -163,7 +254,7 @@
         <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/model/user.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755248065027" />
+              <option name="lastModified" value="1755258407968" />
               <option name="schema">
                 <list>
                   <option value="User" />
@@ -175,7 +266,7 @@
         <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/service/service.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755250826380" />
+              <option name="lastModified" value="1755259640079" />
               <option name="schema">
                 <list>
                   <option value="Server" />
@@ -286,7 +377,7 @@
         <entry key="file://$PROJECT_DIR$/middleware/jwt.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755243162611" />
+              <option name="lastModified" value="1755262661344" />
             </ScannedPath>
           </value>
         </entry>
@@ -373,10 +464,13 @@
         <entry key="es" value="ES" />
         <entry key="jwt" value="JWT" />
         <entry key="jwt_claims" value="JWTClaims" />
+        <entry key="login_req" value="LoginReq" />
         <entry key="mongo_db" value="MongoDB" />
         <entry key="mysql" value="Mysql" />
         <entry key="rabbit_mq" value="RabbitMQ" />
         <entry key="redis" value="Redis" />
+        <entry key="register_req" value="RegisterReq" />
+        <entry key="send_sms_req" value="SendSmsReq" />
         <entry key="server" value="Server" />
         <entry key="user" value="User" />
       </map>

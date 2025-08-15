@@ -3,12 +3,11 @@ package pkg
 import (
 	"fmt"
 	"github.com/dgrijalva/jwt-go"
-
 	"time"
 )
 
 const (
-	APP_KEY = "www.topgoer.com"
+	APP_KEY = "2301a"
 )
 
 // TokenHandler是我们获取用户名和密码的处理程序，如果有效，则返回用于将来请求的令牌。
