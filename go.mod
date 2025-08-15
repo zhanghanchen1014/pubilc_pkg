@@ -1,4 +1,4 @@
-module github.com/zhanghanchen1014/viper
+module github.com/zhanghanchen1014/pubilc_pkg
 
 go 1.23.0
 

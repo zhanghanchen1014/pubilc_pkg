@@ -110,8 +110,8 @@ go mod tidy
 package main
 
 import (
-    _ "github.com/zhanghanchen1014/viper/inits" // 自动初始化所有组件
-    "github.com/zhanghanchen1014/viper/config"
+    _ "github.com/zhanghanchen1014/pubilc_pkg/inits" // 自动初始化所有组件
+    "github.com/zhanghanchen1014/pubilc_pkg/config"
 )
 
 func main() {
