@@ -3,6 +3,13 @@
   <component name="GoORMHelperCache">
     <option name="schemaMapping">
       <map>
+        <entry key="ALiYun">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/sms.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="AppConfig">
           <value>
             <set>
@@ -52,7 +59,7 @@
         <entry key="file://$PROJECT_DIR$/config/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755154980818" />
+              <option name="lastModified" value="1755226899734" />
               <option name="schema">
                 <list>
                   <option value="AppConfig" />
@@ -69,56 +76,75 @@
         <entry key="file://$PROJECT_DIR$/config/global.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755163255959" />
+              <option name="lastModified" value="1755226899734" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755163292750" />
+              <option name="lastModified" value="1755226899736" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/es.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755155686640" />
+              <option name="lastModified" value="1755226899737" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/init.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755155278363" />
+              <option name="lastModified" value="1755226899737" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/mongodb.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755155920427" />
+              <option name="lastModified" value="1755226899737" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/mysql.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755155667613" />
+              <option name="lastModified" value="1755226899737" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/redis.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755155831955" />
+              <option name="lastModified" value="1755226899738" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755159282915" />
+              <option name="lastModified" value="1755226899738" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/aliyun.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755227867479" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/untils/sms.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755228144570" />
+              <option name="schema">
+                <list>
+                  <option value="ALiYun" />
+                </list>
+              </option>
             </ScannedPath>
           </value>
         </entry>
@@ -126,6 +152,7 @@
     </option>
     <option name="tableStructMapping">
       <map>
+        <entry key="a_li_yun" value="ALiYun" />
         <entry key="app_config" value="AppConfig" />
         <entry key="elasticsearch" value="Elasticsearch" />
         <entry key="mongo_db" value="MongoDB" />
