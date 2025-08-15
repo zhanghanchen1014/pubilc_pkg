@@ -1,6 +1,6 @@
 package untils
 
-import "github.com/zhanghanchen1014/viper/pkg"
+import "github.com/zhanghanchen1014/pubilc_pkg/pkg"
 
 type Pay interface {
 	AlipayOrder(orderSn, total string) string

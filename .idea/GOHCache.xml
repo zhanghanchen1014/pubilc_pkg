@@ -24,6 +24,13 @@
             </set>
           </value>
         </entry>
+        <entry key="Brand">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/model/brand.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="ES">
           <value>
             <set>
@@ -81,10 +88,109 @@
             </set>
           </value>
         </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/service/service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/model/user.go" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/basic/cmd/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755250034138" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/basic/init/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755247909682" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/basic/init/init.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755247909468" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/basic/init/mongo_db.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755247912589" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/basic/init/mysql.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755247909690" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/basic/init/redis.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755247909686" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/model/brand.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755247909673" />
+              <option name="schema">
+                <list>
+                  <option value="Brand" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/model/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755248065027" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/handler/service/service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755250826380" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../Health-Monitoring-System/user-srv/untils/nacos.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755247912581" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/config/config.go">
           <value>
             <ScannedPath>
@@ -119,14 +225,14 @@
         <entry key="file://$PROJECT_DIR$/inits/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755226899736" />
+              <option name="lastModified" value="1755251006043" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/es.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755226899737" />
+              <option name="lastModified" value="1755251005913" />
             </ScannedPath>
           </value>
         </entry>
@@ -140,14 +246,14 @@
         <entry key="file://$PROJECT_DIR$/inits/mongodb.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755226899737" />
+              <option name="lastModified" value="1755251005944" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/inits/mysql.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755226899737" />
+              <option name="lastModified" value="1755251006002" />
             </ScannedPath>
           </value>
         </entry>
@@ -166,7 +272,7 @@
         <entry key="file://$PROJECT_DIR$/inits/redis.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755226899738" />
+              <option name="lastModified" value="1755251006024" />
             </ScannedPath>
           </value>
         </entry>
@@ -222,7 +328,7 @@
         <entry key="file://$PROJECT_DIR$/untils/es.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755241442248" />
+              <option name="lastModified" value="1755251005811" />
               <option name="schema">
                 <list>
                   <option value="ES" />
@@ -234,7 +340,7 @@
         <entry key="file://$PROJECT_DIR$/untils/pay.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755228629935" />
+              <option name="lastModified" value="1755251005798" />
               <option name="schema">
                 <list>
                   <option value="ALiPay" />
@@ -246,7 +352,7 @@
         <entry key="file://$PROJECT_DIR$/untils/sms.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755228144570" />
+              <option name="lastModified" value="1755251005806" />
               <option name="schema">
                 <list>
                   <option value="ALiYun" />
@@ -262,6 +368,7 @@
         <entry key="a_li_pay" value="ALiPay" />
         <entry key="a_li_yun" value="ALiYun" />
         <entry key="app_config" value="AppConfig" />
+        <entry key="brand" value="Brand" />
         <entry key="elasticsearch" value="Elasticsearch" />
         <entry key="es" value="ES" />
         <entry key="jwt" value="JWT" />
@@ -270,6 +377,8 @@
         <entry key="mysql" value="Mysql" />
         <entry key="rabbit_mq" value="RabbitMQ" />
         <entry key="redis" value="Redis" />
+        <entry key="server" value="Server" />
+        <entry key="user" value="User" />
       </map>
     </option>
     <option name="lastTimeChecked" value="1755153855482" />

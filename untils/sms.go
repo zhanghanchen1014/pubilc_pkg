@@ -1,7 +1,7 @@
 package untils
 
 import (
-	"github.com/zhanghanchen1014/viper/pkg"
+	"github.com/zhanghanchen1014/pubilc_pkg/pkg"
 	"log"
 )
 

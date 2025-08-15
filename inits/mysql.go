@@ -2,11 +2,11 @@ package inits
 
 import (
 	"fmt"
+	"github.com/zhanghanchen1014/pubilc_pkg/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"log"
 	"time"
-	"github.com/zhanghanchen1014/viper/config"
 )
 
 func MysqlInit() {

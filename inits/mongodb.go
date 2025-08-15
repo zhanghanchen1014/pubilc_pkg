@@ -3,11 +3,11 @@ package inits
 import (
 	"context"
 	"fmt"
+	"github.com/zhanghanchen1014/pubilc_pkg/config"
 	"go.mongodb.org/mongo-driver/v2/event"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 	"go.mongodb.org/mongo-driver/v2/mongo/options"
 	"log"
-	"github.com/zhanghanchen1014/viper/config"
 )
 
 func MongoDBInit() *mongo.Collection {

@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"github.com/elastic/go-elasticsearch/v7/esapi"
-	"github.com/zhanghanchen1014/viper/config"
+	"github.com/zhanghanchen1014/pubilc_pkg/config"
 	"log"
 )
 

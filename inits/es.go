@@ -3,8 +3,8 @@ package inits
 import (
 	"fmt"
 	"github.com/elastic/go-elasticsearch/v7"
+	"github.com/zhanghanchen1014/pubilc_pkg/config"
 	"log"
-	"github.com/zhanghanchen1014/viper/config"
 )
 
 func EsInit() {
