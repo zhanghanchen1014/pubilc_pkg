@@ -38,6 +38,20 @@
             </set>
           </value>
         </entry>
+        <entry key="JWT">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/middleware/jwt.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JWTClaims">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/middleware/jwt.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="MongoDB">
           <value>
             <set>
@@ -56,6 +70,7 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/config/config.go" />
+              <option value="file://$PROJECT_DIR$/inits/rabbitmq.go" />
             </set>
           </value>
         </entry>
@@ -73,7 +88,7 @@
         <entry key="file://$PROJECT_DIR$/config/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755226899734" />
+              <option name="lastModified" value="1755244646856" />
               <option name="schema">
                 <list>
                   <option value="AppConfig" />
@@ -84,6 +99,13 @@
                   <option value="RabbitMQ" />
                 </list>
               </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/config/const.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755245176189" />
             </ScannedPath>
           </value>
         </entry>
@@ -129,6 +151,18 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/inits/rabbitmq.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755245154440" />
+              <option name="schema">
+                <list>
+                  <option value="RabbitMQ" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/inits/redis.go">
           <value>
             <ScannedPath>
@@ -139,7 +173,14 @@
         <entry key="file://$PROJECT_DIR$/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755226899738" />
+              <option name="lastModified" value="1755245077354" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/middleware/jwt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755243162611" />
             </ScannedPath>
           </value>
         </entry>
@@ -223,6 +264,8 @@
         <entry key="app_config" value="AppConfig" />
         <entry key="elasticsearch" value="Elasticsearch" />
         <entry key="es" value="ES" />
+        <entry key="jwt" value="JWT" />
+        <entry key="jwt_claims" value="JWTClaims" />
         <entry key="mongo_db" value="MongoDB" />
         <entry key="mysql" value="Mysql" />
         <entry key="rabbit_mq" value="RabbitMQ" />

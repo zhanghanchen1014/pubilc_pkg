@@ -30,6 +30,7 @@
 │   ├── init.go           # 总入口初始化
 │   ├── mongodb.go        # MongoDB 初始化
 │   ├── mysql.go          # MySQL 初始化
+│   └── rabbitmq.go       # RabbitMQ 初始化
 │   └── redis.go          # Redis 初始化
 │
 ├── middleware/           # 中间件
