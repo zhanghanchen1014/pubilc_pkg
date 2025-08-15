@@ -3,6 +3,13 @@
   <component name="GoORMHelperCache">
     <option name="schemaMapping">
       <map>
+        <entry key="ALiPay">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/pay.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="ALiYun">
           <value>
             <set>
@@ -129,10 +136,29 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/alipay.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755228564028" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/pkg/aliyun.go">
           <value>
             <ScannedPath>
               <option name="lastModified" value="1755227867479" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/untils/pay.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755228629935" />
+              <option name="schema">
+                <list>
+                  <option value="ALiPay" />
+                </list>
+              </option>
             </ScannedPath>
           </value>
         </entry>
@@ -152,6 +178,7 @@
     </option>
     <option name="tableStructMapping">
       <map>
+        <entry key="a_li_pay" value="ALiPay" />
         <entry key="a_li_yun" value="ALiYun" />
         <entry key="app_config" value="AppConfig" />
         <entry key="elasticsearch" value="Elasticsearch" />
