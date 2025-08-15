@@ -19,7 +19,7 @@ MongoDB:
  Password: "gaoshaopu"
  Database: "health_db"
 RabbitMQ:
- Host: "156724.103.175.131"
+ Host: "14.103.175.131"
  Port: 5672
  User: "2301a"
  Database: "2301a"
