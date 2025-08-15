@@ -24,6 +24,13 @@
             </set>
           </value>
         </entry>
+        <entry key="ES">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/es.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="Elasticsearch">
           <value>
             <set>
@@ -136,6 +143,13 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/MD5.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755240965676" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/pkg/alipay.go">
           <value>
             <ScannedPath>
@@ -150,10 +164,29 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/md5.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755241023026" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/pkg/oss.go">
           <value>
             <ScannedPath>
               <option name="lastModified" value="1755240644530" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/untils/es.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755241442248" />
+              <option name="schema">
+                <list>
+                  <option value="ES" />
+                </list>
+              </option>
             </ScannedPath>
           </value>
         </entry>
@@ -189,6 +222,7 @@
         <entry key="a_li_yun" value="ALiYun" />
         <entry key="app_config" value="AppConfig" />
         <entry key="elasticsearch" value="Elasticsearch" />
+        <entry key="es" value="ES" />
         <entry key="mongo_db" value="MongoDB" />
         <entry key="mysql" value="Mysql" />
         <entry key="rabbit_mq" value="RabbitMQ" />
