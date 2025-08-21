@@ -17,6 +17,13 @@
             </set>
           </value>
         </entry>
+        <entry key="ALiYunOss">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/upload.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="AppConfig">
           <value>
             <set>
@@ -35,6 +42,20 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Minio">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MinioOss">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/upload.go" />
             </set>
           </value>
         </entry>
@@ -67,14 +88,42 @@
             </set>
           </value>
         </entry>
+        <entry key="UploadFactory">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/untils/upload.go" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/../demo/demo1/api/handler/upload.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755758706961" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../demo/demo1/api/router.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755758847142" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../demo/demo1/cmd/app/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755758847091" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/config/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755706441472" />
+              <option name="lastModified" value="1755758305844" />
               <option name="schema">
                 <list>
                   <option value="AppConfig" />
@@ -83,6 +132,7 @@
                   <option value="Elasticsearch" />
                   <option value="MongoDB" />
                   <option value="RabbitMQ" />
+                  <option value="Minio" />
                 </list>
               </option>
             </ScannedPath>
@@ -95,10 +145,38 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/demo/api/handler/upload.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755705611558" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/demo/api/request/upload.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755691603194" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/demo/api/resp/resp.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755699712585" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/demo/api/router.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1755758013558" />
+              <option name="lastModified" value="1755758859889" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/demo/cmd/app/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755705611529" />
             </ScannedPath>
           </value>
         </entry>
@@ -191,6 +269,13 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/minio.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755700000856" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/pkg/oss.go">
           <value>
             <ScannedPath>
@@ -234,19 +319,37 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/untils/upload.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755697892732" />
+              <option name="schema">
+                <list>
+                  <option value="ALiYunOss" />
+                  <option value="MinioOss" />
+                  <option value="UploadFactory" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="tableStructMapping">
       <map>
         <entry key="a_li_pay" value="ALiPay" />
         <entry key="a_li_yun" value="ALiYun" />
+        <entry key="a_li_yun_oss" value="ALiYunOss" />
         <entry key="app_config" value="AppConfig" />
         <entry key="elasticsearch" value="Elasticsearch" />
         <entry key="es" value="ES" />
+        <entry key="minio" value="Minio" />
+        <entry key="minio_oss" value="MinioOss" />
         <entry key="mongo_db" value="MongoDB" />
         <entry key="mysql" value="Mysql" />
         <entry key="rabbit_mq" value="RabbitMQ" />
         <entry key="redis" value="Redis" />
+        <entry key="upload_factory" value="UploadFactory" />
       </map>
     </option>
     <option name="lastTimeChecked" value="1755757913814" />
