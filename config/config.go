@@ -6,6 +6,7 @@ type AppConfig struct {
 	Elasticsearch
 	MongoDB
 	RabbitMQ
+	Minio
 }
 
 type Mysql struct {
@@ -42,4 +43,11 @@ type RabbitMQ struct {
 	Port     int
 	User     string
 	Database string
+}
+
+type Minio struct {
+	Host string
+	Port int
+	AK   string
+	SK   string
 }

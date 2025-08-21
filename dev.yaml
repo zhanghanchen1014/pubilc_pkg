@@ -23,3 +23,8 @@ RabbitMQ:
  Port: 5672
  User: "2301a"
  Database: "2301a"
+Minio:
+ Host: "14.103.138.112"
+ Port: 9000
+ AK: "accessKeyID"
+ SK: "secretAccessKey"

@@ -1,0 +1,6 @@
+*.exe
+go.mod
+go.sum
+.idea
+*.log
+*.yaml
